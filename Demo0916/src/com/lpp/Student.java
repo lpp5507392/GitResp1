@@ -10,6 +10,7 @@ public class Student {
     private String name;
     private int age;
     private String sex;
+    private int  height;
 
     public Student(String name, int age, String sex) {
         this.name = name;
